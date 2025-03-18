@@ -1,4 +1,4 @@
-# Enforcing and Reporting Continuous Security Working Group Charter
+# Reporting Continuously Community Working Group Charter
 
 ## Table of Contents 
 - [Purpose](#purpose)
@@ -13,7 +13,7 @@
 
 
 ## Purpose
-The FedRAMP Enforcing and Reporting Continuous Security Working Group will serve as an informal, collaborative group that facilitates industry-led knowledge sharing. The Enforcing and Reporting Continuous Security Working Group will help shift toward the new mission of setting standards and policies that empower private companies to create solutions. Enabling private innovation requires ongoing collaboration with the public to represent the government’s goals and expectations. To advance this mission, the Enforcing and Reporting Continuous Security Working Group aims to improve the FedRAMP authorization processes, accelerate secure cloud adoption across government, and foster collaboration between federal agencies and cloud service providers (CSPs) by providing an opportunity to engage directly with FedRAMP experts and others working to create innovative solutions.
+The FedRAMP Reporting Continuously Community Working Group will serve as an informal, collaborative group that facilitates industry-led knowledge sharing. The Enforcing and Reporting Continuous Security Working Group will help shift toward the new mission of setting standards and policies that empower private companies to create solutions. Enabling private innovation requires ongoing collaboration with the public to represent the government’s goals and expectations. To advance this mission, the Enforcing and Reporting Continuous Security Working Group aims to improve the FedRAMP authorization processes, accelerate secure cloud adoption across government, and foster collaboration between federal agencies and cloud service providers (CSPs) by providing an opportunity to engage directly with FedRAMP experts and others working to create innovative solutions.
 
 ## Scope
 The Enforcing and Reporting Continuous Security Working Group will be an informal, collaborative group; involve voluntary participation of all members; provide transparent information about sessions; and their scope excludes the development of FedRAMP standards and policies.
