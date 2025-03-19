@@ -13,7 +13,7 @@
 
 
 ## Purpose
-The FedRAMP Reporting Continuously Community CWG (CWG) will serve as an informal, collaborative group that facilitates industry-led knowledge sharing. The Reporting Continuously CWG will help shift toward the new mission of setting standards and policies that empower private companies to create solutions. Enabling private sector innovation requires ongoing collaboration with the public to represent the government’s goals and expectations. To advance this mission, the Reporting Continuously CWG aims to improve the FedRAMP authorization processes, accelerate secure cloud adoption across government, and foster collaboration between federal agencies and cloud service providers (CSPs) by providing an opportunity to engage directly with FedRAMP experts and others working to create innovative solutions.
+The FedRAMP Reporting Continuously Community Working Group (CWG) will serve as an informal, collaborative group that facilitates industry-led knowledge sharing. The Reporting Continuously CWG will help shift toward the new mission of setting standards and policies that empower private companies to create solutions. Enabling private sector innovation requires ongoing collaboration with the public to represent the government’s goals and expectations. To advance this mission, the Reporting Continuously CWG aims to improve the FedRAMP authorization processes, accelerate secure cloud adoption across government, and foster collaboration between federal agencies and cloud service providers (CSPs) by providing an opportunity to engage directly with FedRAMP experts and others working to create innovative solutions.
 
 ## Scope
 The Reporting Continuously CWG will:
@@ -40,13 +40,13 @@ The Reporting Continuously CWG will create a methodology that addresses the “w
 - Ensure FedRAMP stakeholders have equal, public access to information from FedRAMP, an open forum, and semi-structured opportunities to work towards shared goals in innovative ways.
 - Provide insight into best practices for reporting and communicating security incidents
 - Provide insights into generating, measuring, and communicating uniform baseline key security indicators (KSIs) that facilitate objective comparison across cloud services while allowing for flexible community-driven extensions
-- Exploring mechanisms that enable non-blocking changes while maintaining appropriate security visibility and risk awareness for customers.
+- Exploring mechanisms that enable non-blocking changes while maintaining appropriate security visibility and risk awareness for customers
 - Fostering a culture/creating a framework where compliance augments security instead of being a roadblock
-- Explore approaches to help customers interpret security information and make risk-based decisions using new attestation models.
+- Explore approaches to help customers interpret security information and make risk-based decisions using new attestation models
 
 ## Membership and Moderation
 
-This CWG will have a technical focus, and may include stakeholders from all areas of the FedRAMP community, including CSPs, 3PAOs, Agencies, CISA, and FedRAMP itself. FedRAMP will serve as a facilitator rather than controller of the CWG's activities. 
+This CWG will have a technical focus, and may include stakeholders from all areas of the FedRAMP community, including CSPs, 3PAOs, agencies, CISA, and FedRAMP itself. FedRAMP will serve as a facilitator rather than controller of the CWG's activities. 
 
 The FedRAMP Coordinator for this CWG is [@JohnWHamilton](https://www.github.com/JohnWHamilton). The Coordinator will:
 - Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
@@ -84,7 +84,7 @@ The Reporting Continuously CWG will strive to be as transparent as possible with
 
 The Reporting Continuously CWG will utilize a combination of asynchronous, discussion forum communication and recurring meetings on specific, published agenda topics. GitHub repositories and discussion forums will be open to the public. Meetings will be available for public participation. All information concerning the Reporting Continuously CWG will be posted on the respective GitHub repository. FedRAMP will host meetings to summarize the ongoing activities of the Reporting Continuously CWG and provide a platform for public, synchronous, orderly discussion. Publicly published meeting notes will be made available.
 Meetings will include communication norms that aim to foster an open and collaborative discussion:
-- Respectful Interaction
+- Respectful interaction
 - No personal attacks
 - Professional language
 - Active listening
