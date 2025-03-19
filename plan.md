@@ -69,8 +69,8 @@ The Reporting Continuously CWG will be managed by the following member of the Fe
 - John Hamilton [@JohnWHamilton](https://www.github.com/JohnWHamilton)
 
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
-- [@aj-stein-gsa](https://www.github.com/aj-stein-gsa)
-- [@sam-aydlette](https://www.github.com/sam-aydlette)
+- AJ Stein [@aj-stein-gsa](https://www.github.com/aj-stein-gsa)
+- Sam Aydlette [@sam-aydlette](https://www.github.com/sam-aydlette)
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates.
 
@@ -81,7 +81,7 @@ FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from
 
 ## Transparency and Communication
 This CWG will primarily operate on GitHub in the following repository and Discussion forum:
-- [GitHub Repository]](https://github.com/FedRAMP/reporting-continuously/tree/main)
+- [GitHub Repository](https://github.com/FedRAMP/reporting-continuously/tree/main)
 - Link to Discussion Forum
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
 - Zoom signup link
