@@ -58,9 +58,16 @@ FedRAMP will solicit volunteers to serve as moderators. Members may volunteer to
 
 ## Key Community Working Groups Activities
 The Reporting Continuously CWG may involve the following activities:
-- Maintain a GitHub-based discussion forum where the Community Working Group can collaborate in public (GitHub is chosen because it is an approved GSA cloud service offering that provides community capabilities and is open to use by the public for free. GSA does not have an alternative that meets this criteria)
+
+**GitHub Based Collaboration**
+- Maintain a GitHub-based discussion forum where the Community Working Group can collaborate in public (GitHub is chosen because it is an approved GSA cloud service offering that provides community capabilities and is open to use by the public for free. GSA does not have an alternative that meets this criteria). 
+
+**Creation of a Continuous Reporting Methodology**
 - Initial Outcome: No later than the conclusion of the first two meetings, create and approve a project plan with overall direction including outcomes, timelines, and milestones
 - Strategic Outcome: Produce specifications for a workable methodology that uses a streamlined, data driven approach to risk reporting
+
+**Creation of Supporting Artifacts**
+- As necessary, create and maintain code or example architectures that support automated continuous reporting (markdown reporting formats, etc.)
 
 
 ## Interaction with FedRAMP
