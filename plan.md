@@ -19,7 +19,7 @@ Every FedRAMP CWG has the following primary objectives:
 
 
 ## The Reporting Continuously Community Working Group
-The Reporting Continuously CWG is focused on communicating risk. They will identify effective ways for CSPs to communicate their ongoing risk posture, incidents, and continuous improvement activities with agencies and other customers. They will also identify opportunities for communication via automation and standardize communication of ongoing secure decisions enforcement by each CSP. The CWG will explore future models where CSPs are able to continuously represent their risk posture via an ongoing, data-driven ratings rather than gating mechanisms, enabling non-blocking changes while maintaining visibility.
+The Reporting Continuously CWG is focused on communicating risk. They will identify effective ways for CSPs to communicate their ongoing risk posture, incidents, and continuous improvement activities with agencies and other customers. They will also identify opportunities for communication via automation and create specifications for communicating ongoing secure decisions enforcement by each CSP. The CWG will explore future models where CSPs are able to continuously represent their risk posture via an ongoing, data-driven ratings rather than gating mechanisms, enabling non-blocking changes while maintaining visibility.
 
 In the future, ongoing risk monitoring will be enforced, validated and reported by continuous technical attestation. CSPs will have a transparent, effective methodology for reporting overall risk posture and incident status via standard customer channels without FedRAMP in the middle.
 
