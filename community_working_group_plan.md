@@ -13,7 +13,7 @@
 
 
 ## Purpose
-The FedRAMP Reporting Continuously Community CWG (CWG) will serve as an informal, collaborative group that facilitates industry-led knowledge sharing. The Reporting Continuously CWG will help shift toward the new mission of setting standards and policies that empower private companies to create solutions. Enabling private innovation requires ongoing collaboration with the public to represent the government’s goals and expectations. To advance this mission, the Reporting Continuously CWG aims to improve the FedRAMP authorization processes, accelerate secure cloud adoption across government, and foster collaboration between federal agencies and cloud service providers (CSPs) by providing an opportunity to engage directly with FedRAMP experts and others working to create innovative solutions.
+The FedRAMP Reporting Continuously Community CWG (CWG) will serve as an informal, collaborative group that facilitates industry-led knowledge sharing. The Reporting Continuously CWG will help shift toward the new mission of setting standards and policies that empower private companies to create solutions. Enabling private sector innovation requires ongoing collaboration with the public to represent the government’s goals and expectations. To advance this mission, the Reporting Continuously CWG aims to improve the FedRAMP authorization processes, accelerate secure cloud adoption across government, and foster collaboration between federal agencies and cloud service providers (CSPs) by providing an opportunity to engage directly with FedRAMP experts and others working to create innovative solutions.
 
 ## Scope
 The Reporting Continuously CWG will:
@@ -28,9 +28,9 @@ The Reporting Continuously CWG is focused on communicating risk. They will ident
 In the future, ongoing risk monitoring will be enforced, validated and reported by continuous technical attestation. CSPs will have a transparent, effective methodology for reporting overall risk posture and incident status via standard customer channels without FedRAMP in the middle.
 
 The following areas are in scope:
-Data generation: data is automatically generated from system components (CI/CD, monitoring agents, vulnerability scans, configurations, etc.)
-Data analysis: data is normalized and aggregated to transform into information in the form of Key Security Indicators (KSIs) that represent system risk
-Reporting: Information is presented to customers in consolidated reports or dashboards that reflect near-real time risk posture, enabling informed, risk based decision making
+- **Data generation:** data is automatically generated from system components (CI/CD, monitoring agents, vulnerability scans, configurations, etc.)
+- **Data analysis:** data is normalized and aggregated to transform into information in the form of Key Security Indicators (KSIs) that represent system risk
+- **Reporting:** Information is presented to customers in consolidated reports or dashboards that reflect near-real time risk posture, enabling informed, risk based decision making
 
 The Reporting Continuously CWG will create a methodology that addresses the “who, what, when, and how” for the above steps.
 
@@ -66,7 +66,8 @@ FedRAMP will solicit volunteers to serve as moderators. Members may volunteer to
 ## Key Community Working Groups Activities
 The Reporting Continuously CWG may involve the following activities:
 - Maintain a GitHub-based discussion forum where the Community Working Group can collaborate in public (GitHub is chosen because it is an approved GSA cloud service offering that provides community capabilities and is open to use by the public for free. GSA does not have an alternative that meets this criteria)
-- Initial Outcome: No later than the conclusion of the first two meetings, create and approve a project plan with overall direction including outcomes, timelines, and milestones for producing specifications for a workable model that uses a streamlined, data driven approach to risk reporting
+- Initial Outcome: No later than the conclusion of the first two meetings, create and approve a project plan with overall direction including outcomes, timelines, and milestones
+- Strategic Outcome: Produce specifications for a workable methodology that uses a streamlined, data driven approach to risk reporting
 
 
 ## Interaction with FedRAMP
