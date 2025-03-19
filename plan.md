@@ -36,8 +36,11 @@ FedRAMP CWGs are open to the public and all members of the community may partici
 
 The Reporting Continuously CWG is especially relevant for members of the following communities:
 
-Security & Compliance managers at cloud service providers
-Etc. (be specificish)
+- Security & compliance practitioners
+- Engineers
+- Cybersecurity experts
+- Agency leaders
+- 3PAOs
 
 
 ## Key Community Working Groups Activities
