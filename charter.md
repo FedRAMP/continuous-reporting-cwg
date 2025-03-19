@@ -13,35 +13,51 @@
 
 
 ## Purpose
-The FedRAMP Reporting Continuously Working Group will serve as an informal, collaborative group that facilitates industry-led knowledge sharing. The Reporting Continuously Working Group will help shift toward the new mission of setting standards and policies that empower private companies to create solutions. Enabling private innovation requires ongoing collaboration with the public to represent the government’s goals and expectations. To advance this mission, the Reporting Continuously Working Group aims to improve the FedRAMP authorization processes, accelerate secure cloud adoption across government, and foster collaboration between federal agencies and cloud service providers (CSPs) by providing an opportunity to engage directly with FedRAMP experts and others working to create innovative solutions.
+The FedRAMP Reporting Continuously Community Working Group (CWG) will serve as an informal, collaborative group that facilitates industry-led knowledge sharing. The Reporting Continuously CWG will help shift toward the new mission of setting standards and policies that empower private companies to create solutions. Enabling private innovation requires ongoing collaboration with the public to represent the government’s goals and expectations. To advance this mission, the Reporting Continuously CWG aims to improve the FedRAMP authorization processes, accelerate secure cloud adoption across government, and foster collaboration between federal agencies and cloud service providers (CSPs) by providing an opportunity to engage directly with FedRAMP experts and others working to create innovative solutions.
 
 ## Scope
-The Reporting Continuously Working Group will be an informal, collaborative group; involve voluntary participation of all members; provide transparent information about sessions; and their scope excludes the development of FedRAMP standards and policies.
-The Reporting Continuously Working Group is focused on communication. They will identify ways for CSPs to communicate their incidents, risk posture, and continuous improvement activities with agencies and other customers to inform on significant changes. They will also identify opportunities for communicating incident and other reports via automation and standardize communication of ongoing secure decisions enforcement by each CSP. The Working Group will explore future models where agencies are able to continuously represent their risk posture via an ongoing, data-driven rating rather than gating mechanisms, enabling non-blocking changes while maintaining visibility.
+The Reporting Continuously CWG will:
+- Be an informal, collaborative group
+- Involve voluntary participation of all members
+- Provide transparent information about sessions
+
+The scope of the Reporting Continuously CWG excludes the development of FedRAMP standards and policies.
+
+The Reporting Continuously CWG is focused on communicating risk. They will identify ways for CSPs to communicate their current risk posture, incidents, and continuous improvement activities with agencies and other customers. They will also identify opportunities for communication via automation and standardize communication of ongoing secure decisions enforcement by each CSP. The CWG will explore future models where CSPs are able to continuously represent their risk posture via an ongoing, data-driven ratings rather than gating mechanisms, enabling non-blocking changes while maintaining visibility.
 
 ## Objectives
 - Ensure FedRAMP has direct insight into community activities, goals, achievements, and best practices to inform the creation of standards and policies prior to their formal development.
 - Ensure FedRAMP stakeholders have equal, public access to information from FedRAMP, an open forum, and semi-structured opportunities to work towards shared goals in innovative ways.
 - Provide insight into best practices for reporting and communicating security incidents
-- Provide insights into the right set of uniform baseline security indicators that facilitate objective comparison across cloud services while allowing for flexible community-driven extensions
+- Provide insights into generating, measuring, and communicating uniform baseline key security indicators (KSIs) that facilitate objective comparison across cloud services while allowing for flexible community-driven extensions
 - Exploring mechanisms that enable non-blocking changes while maintaining appropriate security visibility and risk awareness for customers.
 - Fostering a culture/creating a framework where compliance augments security instead of being a roadblock
 - Explore approaches to help customers interpret security information and make risk-based decisions using new attestation models.
 
 ## Membership and Moderation
-The Reporting Continuously Working Group will include representatives from:
+The Reporting Continuously CWG will include representatives from:
 - Cloud service providers
 - Cybersecurity experts
 - Third-party assessment organizations (3PAOs)
 - Federal agencies
 - FedRAMP
 
-This Working Group will have a technical, engineering implementation approach and so will be primarily practitioner focused. FedRAMP will serve as a facilitator rather than controller of the Working Group's activities. FedRAMP will solicit volunteers to serve as moderators. Members may volunteer to serve as moderators prior to the first group or sub-group meetings through self-nomination or peer-nominations. FedRAMP will review a brief, one-page nomination that represents the nominee’s neutrality, communication skills, domain knowledge, and previous facilitation experience. Moderators are expected to rotate every six months, coinciding with the extension of the Reporting Continuously Working Group.
-The Reporting Continuously Working Group is encouraged to partner with industry associations. Potential organizations include:
-- Cloud Security Alliance
-- ACT IAC
-- ATARC
-- CSP-AB
+This CWG will have a technical focus. FedRAMP will serve as a facilitator rather than controller of the CWG's activities. 
+
+The FedRAMP Coordinator for this CWG is @JohnWHamilton. The Coordinator will:
+- Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
+- Schedule meetings and post a public calendar, ensuring agendas are developed, the meeting platform works appropriately, and notes are captured and posted.
+- Occasionally pose questions to the group in a way that is clearly designed to spark general discussion around a topic to see individual opinions and responses.
+- Select community moderators from public applications in alignment with the group charter.
+
+In addition, @aj-stein-gsa and @sam-aydlette are the FedRAMP Advocates. The Advocate will:
+- Answer questions related to how FedRAMP’s standards and policies can best be informed by the activities performed in the working group.
+- Clarify FedRAMP’s goals and objectives related to the development of standards and policies.
+- Share public prototypes, examples, sample code, etc. developed by FedRAMP to be placed in the public domain.
+- Contribute to the development of additional public prototypes, examples, sample code, etc. developed by participants of the working group where that work is public and contributions will remain in the public domain.
+
+FedRAMP will solicit volunteers to serve as moderators. Members may volunteer to serve as moderators prior to the first group or sub-group meetings through self-nomination or peer-nominations. FedRAMP will review a brief, one-page nomination that represents the nominee’s neutrality, communication skills, domain knowledge, and previous facilitation experience. Moderators are expected to rotate every six months, coinciding with the extension of the Reporting Continuously CWG.
+
 
 ## Key Community Working Groups Activities
 The Reporting Continuously Working Group may involve the following activities:
