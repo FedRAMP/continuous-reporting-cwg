@@ -10,10 +10,10 @@
 - [Changes to CWG Operations](#changes-to-cwg-operations)
 
 ## Purpose
-FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on commercial and government best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting standards and policies that enable private innovation to provide solutions to information security problems.
+FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on commercial and government best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting policies that enable private innovation to provide solutions to information security problems.
 Every FedRAMP CWG has the following primary objectives:
 
-1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
+1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of policies prior to their formal development.
 
 2. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
@@ -28,7 +28,7 @@ The following areas are in scope:
 - **Data analysis:** data is normalized and aggregated to transform into information in the form of Key Security Indicators (KSIs) that represent system risk
 - **Reporting:** Information is presented to customers in consolidated reports or dashboards that reflect near-real time risk posture, enabling informed, risk based decision making
 
-The scope of the Reporting Continuously CWG is the *who*, *what*, *when*, and *how* for the above areas. The scope of the Reporting Continuously CWG does not include the development of official FedRAMP standards and policies.
+The scope of the Reporting Continuously CWG is the *who*, *what*, *when*, and *how* for the above areas. The scope of the Reporting Continuously CWG does not include the development of official FedRAMP policies.
 
 
 ### Participation
@@ -43,7 +43,7 @@ The Reporting Continuously CWG is especially relevant for members of the followi
 - 3PAOs
 
 
-## Key Community Working Groups Activities
+## Key CWG Activities
 
 **Produce a Methodology for CSPs to Continuously Report Risk**
 - Initial Outcome: No later than the conclusion of the first two meetings, create and approve a project plan with overall direction including outcomes, timelines, and milestones
@@ -51,7 +51,7 @@ The Reporting Continuously CWG is especially relevant for members of the followi
 - Strategic Outcome: Continuous Risk Reporting Methodology: Produce specifications for a workable methodology that uses a streamlined, data driven approach to risk reporting. Provide insight into best practices for reporting and communicating security incidents. Provide insights into generating, measuring, and communicating uniform baseline key security indicators (KSIs) that facilitate objective comparison across cloud services while allowing for flexible community-driven extensions. Provide insights into enabling non-blocking changes while maintaining appropriate security visibility and risk awareness for customers.
 
 **Strengthen Collaboration Between FedRAMP and the Private Sector**
-- Ensure FedRAMP has direct insight into community activities, goals, achievements, and best practices to inform the creation of standards and policies prior to their formal development.
+- Ensure FedRAMP has direct insight into community activities, goals, achievements, and best practices to inform the creation of policies prior to their formal development.
 - Ensure FedRAMP stakeholders have equal, public access to information from FedRAMP, an open forum, and semi-structured opportunities to work towards shared goals in innovative ways.
 - Foster a culture/creating a framework where compliance augments security instead of being a roadblock
 - Explore approaches to help customers interpret security information and make risk-based decisions using new attestation models.
