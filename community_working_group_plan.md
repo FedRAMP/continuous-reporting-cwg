@@ -25,7 +25,7 @@ The following areas are in scope:
 - **Data analysis:** data is normalized and aggregated to transform into information in the form of Key Security Indicators (KSIs) that represent system risk
 - **Reporting:** Information is presented to customers in consolidated reports or dashboards that reflect near-real time risk posture, enabling informed, risk based decision making
 
-The scope of the Reporting Continuously CWG is the *who*, *what*, *when*, and *how* for the above steps. The scope of the Reporting Continuously CWG does not include the development of official FedRAMP standards and policies.
+The scope of the Reporting Continuously CWG is the *who*, *what*, *when*, and *how* for the above areas. The scope of the Reporting Continuously CWG does not include the development of official FedRAMP standards and policies.
 
 ## Objectives
 **Produce a Methodology for CSPs to Continuously Report Risk**
