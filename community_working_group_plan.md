@@ -32,6 +32,7 @@ The scope of the Reporting Continuously CWG is the *who*, *what*, *when*, and *h
 - Provide insight into best practices for reporting and communicating security incidents
 - Provide insights into generating, measuring, and communicating uniform baseline key security indicators (KSIs) that facilitate objective comparison across cloud services while allowing for flexible community-driven extensions
 - Provide insights into enabling non-blocking changes while maintaining appropriate security visibility and risk awareness for customers.
+
 **Strengthen Collaboration Between FedRAMP and the Private Sector**
 - Ensure FedRAMP has direct insight into community activities, goals, achievements, and best practices to inform the creation of standards and policies prior to their formal development.
 - Ensure FedRAMP stakeholders have equal, public access to information from FedRAMP, an open forum, and semi-structured opportunities to work towards shared goals in innovative ways.
