@@ -1,16 +1,17 @@
 # Reporting Continuously Community Working Group Plan
 
 ## Table of Contents 
-- [Purpose](#purpose)
+- [Background](#background)
 - [The Reporting Continuously Community Working Group](#the-reporting-continuously-community-working-group)
     - [Participation](#participation) 
-- [Key Community Working Groups Activities](#key-community-working-groups-activities)
-- [Interaction with FedRAMP](#interaction-with-fedramp)
-- [Transparency and Communication](#transparency-and-communication)
-- [Changes to CWG Operations](#changes-to-cwg-operations)
+    - [Key Community Working Groups Activities](#key-community-working-groups-activities)
+    - [Interaction with FedRAMP](#interaction-with-fedramp)
+    - [Transparency and Communication](#transparency-and-communication)
+    - [Changes to CWG Operations](#changes-to-cwg-operations)
 
-## Purpose
+## Background
 FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on commercial and government best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting policies that enable private innovation to provide solutions to information security problems.
+
 Every FedRAMP CWG has the following primary objectives:
 
 1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of policies prior to their formal development.
@@ -31,7 +32,7 @@ The following areas are in scope:
 The scope of the Reporting Continuously CWG is the *who*, *what*, *when*, and *how* for the above areas. The scope of the Reporting Continuously CWG does not include the development of official FedRAMP policies.
 
 
-### Participation
+#### Participation
 FedRAMP CWGs are open to the public and all members of the community may participate or follow along. 
 
 The Reporting Continuously CWG is especially relevant for members of the following communities:
@@ -43,7 +44,8 @@ The Reporting Continuously CWG is especially relevant for members of the followi
 - 3PAOs
 
 
-## Key CWG Activities
+### Key CWG Activities
+FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG.
 
 **Produce a Methodology for CSPs to Continuously Report Risk**
 - Initial Outcome: No later than the conclusion of the first two meetings, create and approve a project plan with overall direction including outcomes, timelines, and milestones
@@ -64,7 +66,7 @@ The Reporting Continuously CWG may involve the following activities:
 - As necessary, create and maintain code or example architectures that support automated continuous reporting (markdown reporting formats, etc.)
 
 
-## Interaction with FedRAMP
+### Interaction with FedRAMP
 The Reporting Continuously CWG will be managed by the following member of the FedRAMP PMO:
 - John Hamilton [@JohnWHamilton](https://www.github.com/JohnWHamilton)
 
@@ -79,7 +81,7 @@ Industry professionals should be aware there are limitations on how the federal 
 FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: https://fedramp.gov/disclaimer
 
 
-## Transparency and Communication
+### Transparency and Communication
 This CWG will primarily operate on GitHub in the following repository and Discussion forum:
 - [GitHub Repository](https://github.com/FedRAMP/reporting-continuously/tree/main)
 - [Discussion Forum](https://github.com/FedRAMP/reporting-continuously/discussions/3)
@@ -95,5 +97,5 @@ Every two weeks, the Community Manager will post a Summary of Activity to the CW
 - Expected topics of focus for the next two weeks
 
 
-## Changes to CWG Operations
+### Changes to CWG Operations
 FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 2025 and will provide clear instructions at least thirty days in advance of any significant changes to each CWG.
