@@ -22,7 +22,7 @@ Every FedRAMP CWG has the following primary objectives:
 ## The Reporting Continuously Community Working Group
 The Reporting Continuously CWG is focused on communicating risk. They will identify effective ways for CSPs to communicate their ongoing risk posture, incidents, and continuous improvement activities with agencies and other customers. They will also identify opportunities for communication via automation and create specifications for communicating ongoing secure decisions enforcement by each CSP. The CWG will explore future models where CSPs are able to continuously represent their risk posture via an ongoing, data-driven ratings rather than gating mechanisms, enabling non-blocking changes while maintaining visibility.
 
-In the future, ongoing risk monitoring will be enforced, validated and reported by continuous technical attestation. CSPs will have a transparent, effective methodology for reporting overall risk posture and incident status via standard customer channels without FedRAMP in the middle.
+In the future, ongoing risk monitoring will be enforced, validated and reported by continuous technical validation. CSPs will have a transparent, effective methodology for reporting overall risk posture and incident status via standard customer channels without FedRAMP in the middle.
 
 The following areas are in scope:
 - **Data generation:** data is automatically generated from system components (CI/CD, monitoring agents, vulnerability scans, configurations, etc.)
@@ -56,7 +56,7 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
 - Ensure FedRAMP has direct insight into community activities, goals, achievements, and best practices to inform the creation of policies prior to their formal development.
 - Ensure FedRAMP stakeholders have equal, public access to information from FedRAMP, an open forum, and semi-structured opportunities to work towards shared goals in innovative ways.
 - Foster a culture/creating a framework where compliance augments security instead of being a roadblock
-- Explore approaches to help customers interpret security information and make risk-based decisions using new attestation models.
+- Explore approaches to help customers interpret security information and make risk-based decisions using new control validation and reporting models.
 The Reporting Continuously CWG may involve the following activities:
 
 **GitHub Based Collaboration**
