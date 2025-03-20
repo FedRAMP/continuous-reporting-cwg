@@ -70,9 +70,21 @@ The Reporting Continuously CWG may involve the following activities:
 The Reporting Continuously CWG will be managed by the following member of the FedRAMP PMO:
 - John Hamilton [@JohnWHamilton](https://www.github.com/JohnWHamilton)
 
+Community working group managers are PMO participants responsible for administrative tasks and connective tissue. They will:
+  - Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
+  - Schedule meetings and post a public calendar, ensure agendas are developed, the meeting platform works appropriately, and notes are captured and posted.
+  - Occasionally pose questions to the group in a way that is clearly designed to spark general discussion around a topic to see individual opinions and responses.
+  - Select community moderators from public applications in alignment with the group charter.
+
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
 - AJ Stein [@aj-stein-gsa](https://www.github.com/aj-stein-gsa)
 - Sam Aydlette [@sam-aydlette](https://www.github.com/sam-aydlette)
+
+FedRAMP Advocates are PMO folks engaging with the CWGs and advocating for FedRAMP in them, with a focus on technical content. They will:
+  - Answer questions related to how FedRAMP’s policies can best be informed by the activities performed in the working group.
+  - Clarify FedRAMP’s goals and objectives related to the development of policies.
+  - Share public prototypes, examples, sample code, etc. developed by FedRAMP to be placed in the public domain.
+  - Contribute to the development of additional public prototypes, examples, sample code, etc. developed by participants of the working group where that work is public and contributions will remain in the public domain.
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates.
 
