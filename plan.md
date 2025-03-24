@@ -32,7 +32,7 @@ The following areas are in scope:
 The scope of the Reporting Continuously CWG is the *who*, *what*, *when*, *where*, and *how* for the above areas. The scope of the Reporting Continuously CWG does not include the development of official FedRAMP policies.
 
 
-#### Participation
+### Participation
 FedRAMP CWGs are open to the public and all members of the community may participate or follow along. 
 
 The Reporting Continuously CWG is especially relevant for members of the following communities:
