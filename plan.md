@@ -1,8 +1,8 @@
-# Reporting Continuously Community Working Group Plan
+# Continuous Reporting Community Working Group Plan
 
 ## Table of Contents 
 - [Background](#background)
-- [The Reporting Continuously Community Working Group](#the-reporting-continuously-community-working-group)
+- [The Continuous Reporting Community Working Group](#wg-details)
     - [Participation](#participation) 
     - [Key Community Working Groups Activities](#key-community-working-groups-activities)
     - [Interaction with FedRAMP](#interaction-with-fedramp)
@@ -19,8 +19,8 @@ Every FedRAMP CWG has the following primary objectives:
 2. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
 
-## The Reporting Continuously Community Working Group
-The Reporting Continuously CWG is focused on communicating risk. They will identify effective ways for CSPs to communicate their ongoing risk posture, incidents, and continuous improvement activities with agencies and other customers. They will also identify opportunities for communication via automation and create specifications for communicating ongoing secure decisions enforcement by each CSP. The CWG will explore future models where CSPs are able to continuously represent their risk posture via an ongoing, data-driven ratings rather than gating mechanisms, enabling non-blocking changes while maintaining visibility.
+## The Continuous Reporting Community Working Group {#wg-details}
+The Continuous Reporting CWG is focused on communicating risk. They will identify effective ways for CSPs to communicate their ongoing risk posture, incidents, and continuous improvement activities with agencies and other customers. They will also identify opportunities for communication via automation and create specifications for communicating ongoing secure decisions enforcement by each CSP. The CWG will explore future models where CSPs are able to continuously represent their risk posture via an ongoing, data-driven ratings rather than gating mechanisms, enabling non-blocking changes while maintaining visibility.
 
 In the future, ongoing risk monitoring will be enforced, validated and reported by continuous technical validation. CSPs will have a transparent, effective methodology for reporting overall risk posture and incident status via standard customer channels without FedRAMP in the middle.
 
@@ -29,13 +29,13 @@ The following areas are in scope:
 - **Data analysis:** data is normalized and aggregated to transform into information in the form of Key Security Indicators (KSIs) that represent system risk
 - **Reporting:** Information is presented to customers in consolidated reports or dashboards that reflect near-real time risk posture, enabling informed, risk based decision making
 
-The scope of the Reporting Continuously CWG is the *who*, *what*, *when*, *where*, and *how* for the above areas. The scope of the Reporting Continuously CWG does not include the development of official FedRAMP policies.
+The scope of the Continuous Reporting CWG is the *who*, *what*, *when*, *where*, and *how* for the above areas. The scope of the Continuous Reporting CWG does not include the development of official FedRAMP policies.
 
 
 ### Participation
 FedRAMP CWGs are open to the public and all members of the community may participate or follow along. 
 
-The Reporting Continuously CWG is especially relevant for members of the following communities:
+The Continuous Reporting CWG is especially relevant for members of the following communities:
 
 - Security & compliance practitioners
 - Engineers
@@ -57,7 +57,7 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
 - Ensure FedRAMP stakeholders have equal, public access to information from FedRAMP, an open forum, and semi-structured opportunities to work towards shared goals in innovative ways.
 - Foster a culture/creating a framework where compliance augments security instead of being a roadblock
 - Explore approaches to help customers interpret security information and make risk-based decisions using new control validation and reporting models.
-The Reporting Continuously CWG may involve the following activities:
+The Continuous Reporting CWG may involve the following activities:
 
 **GitHub Based Collaboration**
 - Maintain a GitHub-based discussion forum where the Community Working Group can collaborate in public (GitHub is chosen because it is an approved GSA cloud service offering that provides community capabilities and is open to use by the public for free. GSA does not have an alternative that meets this criteria). 
@@ -67,7 +67,7 @@ The Reporting Continuously CWG may involve the following activities:
 
 
 ### Interaction with FedRAMP
-The Reporting Continuously CWG will be managed by the following member of the FedRAMP PMO:
+The Continuous Reporting CWG will be managed by the following member of the FedRAMP PMO:
 - John Hamilton [@JohnWHamilton](https://www.github.com/JohnWHamilton)
 
 Community working group managers are PMO participants responsible for administrative tasks and connective tissue. They will:
