@@ -109,4 +109,4 @@ Every two weeks, the Community Manager will post a Summary of Activity to the CW
 
 
 ### Changes to CWG Operations
-FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 2025 and will provide clear instructions at least thirty days in advance of any significant changes to each CWG.
+FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 20x and will provide clear instructions at least thirty days in advance of any significant changes to each CWG.
