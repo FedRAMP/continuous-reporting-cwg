@@ -10,19 +10,19 @@
     - [Changes to CWG Operations](#changes-to-cwg-operations)
 
 ## Background
-FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security. Every FedRAMP CWG has the following primary objectives:
+FedRAMP Community Working Groups (CWGs) are public, informal, and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting policies that enable private innovation to provide solutions to information security problems.
 
 Every FedRAMP CWG has the following primary objectives:
-
 1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of policies prior to their formal development.
-
 2. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
+
 
 
 ## The Continuous Reporting Community Working Group {#wg-details}
 The Continuous Reporting CWG is focused on communicating risk. They will identify effective ways for CSPs to communicate their ongoing risk posture, incidents, and continuous improvement activities with agencies and other customers. They will also identify opportunities for communication via automation and create specifications for communicating ongoing secure decisions enforcement by each CSP. The CWG will explore future models where CSPs are able to continuously represent their risk posture via an ongoing, data-driven ratings rather than gating mechanisms, enabling non-blocking changes while maintaining visibility.
 
 In the future, ongoing risk monitoring will be enforced, validated and reported by continuous technical validation. CSPs will have a transparent, effective methodology for reporting overall risk posture and incident status via standard customer channels without FedRAMP in the middle.
+
 
 The following areas are in scope:
 - **Data generation:** data is automatically generated from system components (CI/CD, monitoring agents, vulnerability scans, configurations, etc.)
@@ -45,7 +45,7 @@ The Continuous Reporting CWG is especially relevant for members of the following
 
 
 ### Key CWG Activities
-FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG.
+FedRAMP advocates may mediate discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG.
 
 **Produce a Methodology for CSPs to Continuously Report Risk**
 - Initial Outcome: No later than the conclusion of the first two meetings, create and approve a project plan with overall direction including outcomes, timelines, and milestones
@@ -67,10 +67,10 @@ The Continuous Reporting CWG may involve the following activities:
 
 
 ### Interaction with FedRAMP
-The Continuous Reporting CWG will be managed by the following member of the FedRAMP PMO:
+The Continuous Reporting CWG will be mediated by the following member of the FedRAMP PMO:
 - John Hamilton [@JohnWHamilton](https://www.github.com/JohnWHamilton)
 
-Community working group managers are PMO participants responsible for administrative tasks and connective tissue. They will:
+Community working group mediators are PMO participants responsible for administrative tasks and connective tissue. They will:
   - Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
   - Schedule meetings and post a public calendar, ensure agendas are developed, the meeting platform works appropriately, and notes are captured and posted.
   - Occasionally pose questions to the group in a way that is clearly designed to spark general discussion around a topic to see individual opinions and responses.
@@ -94,13 +94,13 @@ This CWG will primarily operate on GitHub in the following repository and Discus
 - [GitHub Repository](https://github.com/FedRAMP/reporting-continuously/tree/main)
 - [Discussion Forum](https://github.com/FedRAMP/continuous-reporting-cwg/discussions)
 
-The community manager will host regular town halls for managed discussion, updates, and Q&A:
+The community mediator will host regular town halls for managed discussion, updates, and Q&A:
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ#/registration)
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
 - [FedRAMP Youtube Channel](https://www.youtube.com/@FedRAMP)
 
-Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
+Every two weeks, the community mediator will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
 - Recap of major topics from the weekly town halls
