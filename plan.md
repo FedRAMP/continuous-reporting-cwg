@@ -10,7 +10,8 @@
     - [Changes to CWG Operations](#changes-to-cwg-operations)
 
 ## Background
-FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting policies that enable private innovation to provide solutions to information security problems.
+FedRAMP Community Working Groups (CWGs) are public, informal, and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting policies that enable private innovation to provide solutions to information security problems.
+
 Every FedRAMP CWG has the following primary objectives:
 1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of policies prior to their formal development.
 2. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
