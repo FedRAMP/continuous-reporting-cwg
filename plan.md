@@ -10,7 +10,7 @@
     - [Changes to CWG Operations](#changes-to-cwg-operations)
 
 ## Background
-FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on commercial and government best practices for information security of cloud services. FedRAMP will rely on the direct engagement provided by CWGs to ensure a smooth transition towards its updated mission of setting policies that enable private innovation to provide solutions to information security problems.
+FedRAMP Community Working Groups (CWGs) are public, informal and collaborative groups that facilitate industry-led knowledge sharing on best practices for information security. Every FedRAMP CWG has the following primary objectives:
 
 Every FedRAMP CWG has the following primary objectives:
 
@@ -74,7 +74,6 @@ Community working group managers are PMO participants responsible for administra
   - Provide general working group facilitation, ensuring folks stay on track with the agenda, and that everyone is able to participate appropriately.
   - Schedule meetings and post a public calendar, ensure agendas are developed, the meeting platform works appropriately, and notes are captured and posted.
   - Occasionally pose questions to the group in a way that is clearly designed to spark general discussion around a topic to see individual opinions and responses.
-  - Select community moderators from public applications in alignment with the group charter.
 
 In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
 - AJ Stein [@aj-stein-gsa](https://www.github.com/aj-stein-gsa)
@@ -86,11 +85,8 @@ FedRAMP Advocates are PMO folks engaging with the CWGs and advocating for FedRAM
   - Share public prototypes, examples, sample code, etc. developed by FedRAMP to be placed in the public domain.
   - Contribute to the development of additional public prototypes, examples, sample code, etc. developed by participants of the working group where that work is public and contributions will remain in the public domain.
 
-All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates.
-
-Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government.
-
-FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: https://fedramp.gov/disclaimer
+All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates. Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not manage or control the CWGs activities, nor will we use working groups to seek consensus advice, review, or approval.
+FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: [FedRAMP Disclaimer](https://fedramp.gov/disclaimer)
 
 
 ### Transparency and Communication
@@ -98,7 +94,7 @@ This CWG will primarily operate on GitHub in the following repository and Discus
 - [GitHub Repository](https://github.com/FedRAMP/reporting-continuously/tree/main)
 - [Discussion Forum](https://github.com/FedRAMP/reporting-continuously/discussions/3)
 
-The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
+The community manager will host regular town halls for managed discussion, updates, and Q&A:
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ#/registration)
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
