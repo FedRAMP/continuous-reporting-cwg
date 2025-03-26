@@ -99,7 +99,7 @@ The community mediator will host regular town halls for managed discussion, upda
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
 - [FedRAMP Youtube Channel](https://www.youtube.com/@FedRAMP)
 
-Every two weeks, the Community Mediator will post a Summary of Activity to the CWG that includes the following:
+Every two weeks, the community mediator will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
 - Recap of major topics from the weekly town halls
