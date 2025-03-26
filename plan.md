@@ -92,7 +92,7 @@ FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from
 ### Transparency and Communication
 This CWG will primarily operate on GitHub in the following repository and Discussion forum:
 - [GitHub Repository](https://github.com/FedRAMP/reporting-continuously/tree/main)
-- [Discussion Forum](https://github.com/FedRAMP/reporting-continuously/discussions/3)
+- [Discussion Forum](https://github.com/FedRAMP/continuous-reporting-cwg/discussions)
 
 The community manager will host regular town halls for managed discussion, updates, and Q&A:
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/t7WXSUz2SqK7Pdn8KXH8jQ#/registration)
