@@ -9,8 +9,8 @@ The community mediator will host a biweekly 30 minute town hall on Thursdays at 
 
 Recordings for the town hall meetings can be found below. The links to the recordings may be posted a business day or two after the meeting occurred. 
 
-
-| Meeting Date | Meeting Slide Deck                                                                | Zoom Recording Link                                                                                                                                                                                                                                                                                                                                                   | Zoom Recording Password | Youtube Link | Duration (mm:ss) |
-|--------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------|----------|
-| 4/10/2025    | [Slide Deck](./assets/cr_cwg_2025410.pdf) | [Kickoff Meeting Link](https://gsa.zoomgov.com/rec/share/1SI3xFecyKd-DCY-vA-YlIO0THchDoRO-Hyh8a8fD46oIEAOgnmbzy1XAolAwPrx.d6GCIKs0BSj7Q3xT) | 5$TN7o1%        | TBD                     | TBD          | 00:10:19 |
-| 4/24/2025    | TBD | TBD | TBD | TBD | TBD |
+| Meeting Date | Meeting Slides     | Meeting Recording | Duration (mm:ss) |
+|--------------|--------------------|-------------------|------------------|
+| 4/10/2025    | [Slides (PDF)](./assets/cr_cwg_2025410.pdf) | [Youtube Video](https://www.youtube.com/watch?v=juTMrGv4KR8) | 00:10:19 |
+| 4/24/2025    | [Slides (PDF)](./assets/cr_cwg_20250424.pdf) | [Youtube Video](https://www.youtube.com/watch?v=gC5kdU0FY5k) | 00:10:50 |
+| 5/8/2025     | TBD | TBD | TBD |
