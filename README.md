@@ -7,6 +7,10 @@ The community mediator will host a biweekly 30 minute town hall on Thursdays at 
 
 ## Meeting Recordings
 
+To quickly access the most recent meeting recordings, open this group's playlist on YouTube [with this link](https://www.youtube.com/playlist?list=PL1orhY9kSkzQghZZQB4W5SoZKmhyZ0j_k) or use the QR code below.
+
+![QR Code for Continuous Reporting Community Working Group Playlist on the FedRAMP YouTube channel](./assets/playlist.png)
+
 Recordings for the town hall meetings can be found below. The links to the recordings may be posted a business day or two after the meeting occurred. 
 
 | Meeting Date | Meeting Slides     | Meeting Recording | Duration (hh:mm:ss) |
