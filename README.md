@@ -18,4 +18,4 @@ Recordings for the town hall meetings can be found below. The links to the recor
 | 4/10/2025    | [Slides (PDF)](./assets/cr_cwg_20250410.pdf) | [Youtube Video](https://www.youtube.com/watch?v=juTMrGv4KR8) | 00:10:19 |
 | 4/24/2025    | [Slides (PDF)](./assets/cr_cwg_20250424.pdf) | [Youtube Video](https://www.youtube.com/watch?v=gC5kdU0FY5k) | 00:10:50 |
 | 5/8/2025     | [Slides (PDF)](./assets/cr_cwg_20250508.pdf) | [Youtube Video](https://www.youtube.com/watch?v=qIKmSwJArhg) | 00:08:08 |
-| 5/22/2025    | [Slides (PDF)](./assets/cr_cwg_20250522.pdf) | TBD | TBD |
+| 5/22/2025    | [Slides (PDF)](./assets/cr_cwg_20250522.pdf) | [Youtube Video](https://www.youtube.com/watch?v=cwykb2qVGP8) | 00:10:19 |
